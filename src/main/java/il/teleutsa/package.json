@@ -1,0 +1,8 @@
+{
+  "name": "teleutsa",
+  "version": "1.0.0",
+  "dependencies": {
+    "install-npm-version": "^1.0.8",
+    "md5": "^2.3.0"
+  }
+}
